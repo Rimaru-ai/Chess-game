@@ -1,0 +1,1 @@
+# Chess Game package init
